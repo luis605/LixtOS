@@ -1,4 +1,5 @@
 # LixtOS
-Introduction
 
-This is an Operating System made in Assembly and C. It's only in the beginning so it can have many bugs to report. Please read license.
+# Introduction
+
+Lixt OS is an operating system made with assembly and c. The operating system allows the user to type commands into a terminal and the machine executes them.
