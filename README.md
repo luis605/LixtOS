@@ -13,3 +13,23 @@ Right now Lixt OS is a **terminal** with a **BASIC LOGIN SYSTEM**
   - Terminal/Command Line
   - Login System
 
+# Available commands
+
+There are commands that allows the user to control the machine.
+Commands list:
+  - help
+  - shutdown
+  - panic
+  - cpuid
+  - ls (Not Working)
+  - startx (Not Working)
+  - echo
+  - mypass
+  - sudo (Not Working)
+
+
+# Problems/Improves to make
+
+  - None working commands
+  - Add a file managment
+ 
